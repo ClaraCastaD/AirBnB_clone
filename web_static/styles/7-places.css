@@ -1,0 +1,29 @@
+.place {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.article-place {
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.title-place,
+.article-title {
+    font-size: 30px;
+}
+
+.title-place {
+    display: block;
+    width: 100%;
+    padding: 1rem;
+}
+
+.article-title {
+    text-align: center;
+}
